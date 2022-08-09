@@ -3,9 +3,6 @@ Pod::Spec.new do |s|
   s.version          = '1.0.0'
   s.summary          = '方便'
 
-
-  s.description      = <<-
-
   s.homepage         = 'https://github.com/Marcusias/MMJsonMap'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'LinXunFeng' => '598600855@qq.com' }
