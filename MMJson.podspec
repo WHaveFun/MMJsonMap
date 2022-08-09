@@ -2,6 +2,7 @@ Pod::Spec.new do |s|
   s.name             = 'MMJsonMap'
   s.version          = '1.0.0'
   s.summary          = '方便'
+  s.description      = 'easy'
 
   s.homepage         = 'https://github.com/Marcusias/MMJsonMap'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
